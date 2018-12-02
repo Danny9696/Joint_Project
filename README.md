@@ -1,2 +1,2 @@
 # Joint_Project
-By Kyle and Dan
+This Joint Project aims to showcase our skills with c#/.NET
